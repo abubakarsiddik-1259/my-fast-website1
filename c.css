@@ -283,32 +283,6 @@ nav {
 
 
 
-/* Touch Section 
-
-.touch-section{
-    max-width: 1140px;
-    height: 632px;
-    border: 5px solid green;
-    margin: auto;
-    display: flex;
-    justify-content: space-between;
-}
-
-.form-box{
-    width: 497px;
-    height: 490px;
-    border: 2px solid green;
-    box-sizing: border-box;
-}
-
-.form-box input{
-     width: 100%;
-  padding:  20px 32px;
-  margin: 8px 0;
-  box-sizing: border-box;
-}
-   */
-
 
 
 .contact-section {
@@ -319,7 +293,7 @@ nav {
   padding: 80px 10%;
   gap: 200px;
   flex-wrap: wrap;
-  margin: 200px auto 0px auto;
+  margin: 150px auto 0px auto;
   width: 1140px;
   height: 632px;
 
@@ -329,7 +303,7 @@ nav {
 
 
 .contact-text {
-  font-size: 87px;
+  font-size: 70px;
   font-weight: bold;
   color: #000;
  text-align: center;
@@ -342,6 +316,7 @@ nav {
   margin: auto;
   width: 497px;
   height: 490px;
+ 
 }
 
 .contact-form form {
