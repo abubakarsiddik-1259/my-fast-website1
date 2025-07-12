@@ -47,7 +47,9 @@ nav {
     border-radius: 10px;
 
 }
-
+.nav-button:hover{
+    background-color: #2e2bdc;
+}
 
 
 
